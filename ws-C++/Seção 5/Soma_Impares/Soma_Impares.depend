@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703735166 source:c:\users\thaai\onedrive\documentos\ws\ws-c++\seção 5\soma_impares\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
