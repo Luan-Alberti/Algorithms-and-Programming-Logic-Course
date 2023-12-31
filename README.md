@@ -1,2 +1,4 @@
 # Algoritmos-e-L-gica-de-Programa-o-2023
-Onde usei pra salvar todos meu projetos e resoluções de problemas durante meu Curso de Algoritmos e Lógica de Programação. Aprendi a base ed C, C++, C#, Java e Python
+Where I used it to save all my projects and problem resolutions during my Algorithms and Programming Logic Course. I learned the basics of C, C++, C#, Java and Python
+
+Re
